@@ -1,0 +1,32 @@
+MOUSE POINTER - Slight Select
+LEFT MOUSE CLICK - Select Cell
+UP - Move Up
+DOWN - Move Down/Insert Row
+LEFT - Move Left
+RIGHT - Move Right/Insert Col
+Left Ctrl + LEFT - Insert Column to Left
+Left Ctrl + RIGHT - Insert Column to Right
+Left Ctrl + U - Insert Row Above
+Left Ctrl + D - Insert Row Below
+Left Ctrl + P - Insert Cell By Right Shift
+Left Ctrl + L - Insert Cell By Down Shift
+Left Ctrl + 0 - Reset Color
+Left Ctrl + 1 - Color 1
+Left Ctrl + 2 - Color 2
+Left Ctrl + 3 - Color 3
+Left Ctrl + 4 - Color 4
+Right Ctrl + LEFT - Delete Row
+Right Ctrl + RIGHT - Delete Column
+Right Ctrl + P - Delete Cell by Up Shift
+Right Ctrl + L - Delete Cell by Left Shift
+ENTER - Input Data in Cell
+S - Save File
+SPACEBAR - Go in Select Range Mode
+- C - Copy Range
+- X - Cut Range
+- S - Sum Range
+- A - Average Range
+- M - Maximum Range
+- N - Minimum Range
+- D - Count Range
+- SPACE - Paste Result of Selected Range

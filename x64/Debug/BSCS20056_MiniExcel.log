@@ -1,0 +1,15 @@
+﻿  BSCS20056_MiniExcel.cpp
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\Excel.h(1022,2): warning C4240: nonstandard extension used: access to 'Excel::Iterator' now defined to be 'public', previously it was defined to be 'private'
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\Excel.h(53): message : see declaration of 'Excel::Iterator'
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\Excel.h(452,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\Excel.h(855,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\Excel.h(859,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\Excel.h(978,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\Excel.h(984,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\Excel.h(988,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\Excel.h(1009,24): warning C4390: ';': empty controlled statement found; is this the intent?
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\BSCS20056_MiniExcel.cpp(7,14): warning C4273: 'GetCurrentConsoleFont': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi3.h(57,1): message : see previous definition of 'GetCurrentConsoleFont'
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\BSCS20056_MiniExcel.cpp(16,6): warning C4101: 'ri': unreferenced local variable
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\BSCS20056_MiniExcel.cpp(16,10): warning C4101: 'ci': unreferenced local variable
+  BSCS20056_MiniExcel.vcxproj -> E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056_MiniExcel\x64\Debug\BSCS20056_MiniExcel.exe
